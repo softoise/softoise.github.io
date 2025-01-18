@@ -1,0 +1,3 @@
+[submodule "themes/up-business-theme"]
+	path = themes/up-business-theme
+	url = https://gitlab.com/softoise/up-business-theme.git
