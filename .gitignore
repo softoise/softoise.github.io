@@ -1,0 +1,28 @@
+# Directorios generados por Hugo
+/public/
+/resources/_gen/
+/assets/.*
+
+# Archivos de configuración locales
+/config.toml.backup
+/config.yaml.backup
+/config.json.backup
+
+# Archivos temporales y de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Archivos relacionados con editores y sistemas de desarrollo
+.idea/
+.vscode/
+*.code-workspace
+
+# Archivos relacionados con sistemas operativos y herramientas comunes
+*.log
+*.bak
+*.tmp
+
+# Archivos de compilación o de herramientas externas
+/node_modules/
