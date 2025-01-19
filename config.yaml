@@ -61,7 +61,7 @@ menus:
 
   buttons:
     - name: "Book a call"
-      url: "/#"
+      url: "https://calendly.com/softoise/30min"
       weight: 5
       pre: "btn btn-primary text-light"
 
