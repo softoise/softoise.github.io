@@ -47,9 +47,9 @@ menus:
       url: "/our-work"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 3
 
     - name: "Pricing"
       url: "/#"
