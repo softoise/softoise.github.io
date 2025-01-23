@@ -2,26 +2,28 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Discover how we can help you achieve your goals."
+  text: "We offer innovative solutions in development, audits, and training to take your projects to the next level. Explore our services below and find the one that suits your needs best!"
+
+
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/auditory-service.png"
+      title: "Software Code Audit"
+      text: "We offer a comprehensive code audit service to help you identify potential issues and improve your software. Our team of experts will analyze your code and provide you with a detailed report on how to optimize it."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/development-service.png"
       title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "We offer a wide range of web development services to help you create a stunning website that meets your needs. Our team of experienced developers will work with you to bring your vision to life."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/team-training.png"
+      title: "Team training"
+      text: "We offer a variety of training programs to help your team stay up-to-date with the latest technologies and best practices. Our training sessions are tailored to your needs and can be delivered on-site or online."
       button:
         label: "Learn more"
         url: "#"
