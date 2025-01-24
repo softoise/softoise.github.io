@@ -21,6 +21,14 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
+  ogTags:
+    type: "company"
+    image: "images/perfil.jpg"
+    description: "custom software solutions"
+    # twitter:
+    #   site: "@softoise"
+    #   creator: "@softoise"
+
   social:
     # dribbble: "#"
     instagram: "https://www.instagram.com/softoise"
