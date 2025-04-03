@@ -1,29 +1,24 @@
 enabled: true
 id: "services"
-
 content:
-  title: "Discover how we can help you achieve your goals."
-  text: "We offer innovative solutions in development, audits, and training to take your projects to the next level. Explore our services below and find the one that suits your needs best!"
-
-
+  title: "Nuestros servicios"
+  text: "Soluciones técnicas adaptadas a tus necesidades"
   cards:
-    - image: "images/auditory-service.png"
-      title: "Software Code Audit"
-      text: "We offer a comprehensive code audit service to help you identify potential issues and improve your software. Our team of experts will analyze your code and provide you with a detailed report on how to optimize it."
+    - title: "Desarrollo Web"
+      text: "Aplicaciones web escalables con tecnologías modernas."
+      image: "images/web.png"
       button:
-        label: "Learn more"
+        label: "Saber más"
         url: "#"
-
-    - image: "images/development-service.png"
-      title: "Web development"
-      text: "We offer a wide range of web development services to help you create a stunning website that meets your needs. Our team of experienced developers will work with you to bring your vision to life."
+    - title: "Apps Móviles"
+      text: "Soluciones nativas o multiplataforma para iOS y Android."
+      image: "images/icons/mobile.svg"
       button:
-        label: "Learn more"
+        label: "Saber más"
         url: "#"
-
-    - image: "images/team-training.png"
-      title: "Team training"
-      text: "We offer a variety of training programs to help your team stay up-to-date with the latest technologies and best practices. Our training sessions are tailored to your needs and can be delivered on-site or online."
+    - title: "Automatización"
+      text: "Sistemas que eliminan tareas repetitivas."
+      image: "images/icons/automation.svg"
       button:
-        label: "Learn more"
+        label: "Saber más"
         url: "#"
