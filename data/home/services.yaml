@@ -12,13 +12,13 @@ content:
         url: "#"
     - title: "Apps Móviles"
       text: "Soluciones nativas o multiplataforma para iOS y Android."
-      image: "images/icons/mobile.svg"
+      image: "images/mobile.png"
       button:
         label: "Saber más"
         url: "#"
     - title: "Automatización"
       text: "Sistemas que eliminan tareas repetitivas."
-      image: "images/icons/automation.svg"
+      image: "images/automation.png"
       button:
         label: "Saber más"
         url: "#"

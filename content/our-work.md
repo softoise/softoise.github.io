@@ -1,22 +1,50 @@
 +++
-title = "💼Our Work"
-description = "Delivering high-quality software solutions with speed and precision"
+title = "Nuestro Trabajo"
+description = "Ofrecemos soluciones de software de alta calidad con rapidez y precisión."
 date = "2025-01-18"
-aliases = ["our-work", "services", "what-we-do"]
-author = "Softoise Team"
+aliases = ["nuestro-trabajo", "servicios", "que-hacemos"]
+author = "Equipo Softoise"
 +++
 
-At Softoise, we specialize in creating high-quality software solutions tailored to your needs. Our expertise spans software audits, microservices architecture, and delivering results with reduced time-to-market, ensuring your users receive value faster.
+<div style="text-align: center; padding: 40px; border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
+  <h1 style="color: #ffffff;">Somos expertos en soluciones de software</h1>
+  <p style="color: #dcdcdc;">Creamos soluciones de software de alta calidad, personalizadas y con resultados rápidos.</p>
+</div>
 
-We focus on:
+<section style="padding: 40px; margin: 20px auto; background: rgba(0, 0, 0, 0.5); border-radius: 10px;">
+  <h2 style="color: #ffffff;">¿Qué hacemos?</h2>
+  <ul style="list-style-type: none; padding: 0; color: #dcdcdc;">
+    <li><strong>Auditorías de Software:</strong> Revisiones exhaustivas para garantizar que tu software cumpla los más altos estándares.</li>
+    <li><strong>Arquitectura de Microservicios:</strong> Diseños escalables y eficientes para modernizar tus plataformas.</li>
+    <li><strong>Aceleración del Tiempo al Mercado:</strong> Soluciones rápidas mediante metodologías ágiles.</li>
+    <li><strong>Soluciones Centradas en el Usuario:</strong> Productos intuitivos que aportan valor a tus usuarios.</li>
+  </ul>
+</section>
 
-* **Software Audits** – Comprehensive reviews to ensure your software meets the highest standards of quality and performance.
-* **Microservices Architecture** – Scalable and efficient solutions to modernize and future-proof your systems.
-* **Accelerated Time-to-Market** – Agile development practices to deliver value quickly and reliably.
-* **User-Centric Solutions** – Prioritizing the needs of your users to create impactful and intuitive products.
+<div style="padding: 40px; margin: 20px auto; border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 10px;">
+  <h2 style="color: #ffffff;">¿Por qué elegirnos?</h2>
+  <p style="color: #dcdcdc;">Softoise combina excelencia técnica y un entendimiento profundo de tus objetivos empresariales. Ofrecemos:</p>
+  <ul style="list-style-type: none; padding: 0; color: #dcdcdc;">
+    <li>Desarrollo ágil para reducir tiempos y costos.</li>
+    <li>Soluciones innovadoras adaptadas a tus desafíos.</li>
+    <li>Colaboración continua en todas las etapas.</li>
+  </ul>
+</div>
 
-Our approach combines technical excellence with a deep understanding of your business objectives, enabling us to deliver solutions that drive real results.
+<section style="padding: 40px; margin: 20px auto; background: rgba(255, 255, 255, 0.1); border-radius: 10px;">
+  <h2 style="color: #ffffff;">Nuestro Proceso</h2>
+  <ol style="color: #dcdcdc;">
+    <li>Análisis: Identificamos tus requerimientos y objetivos principales.</li>
+    <li>Diseño: Elaboramos prototipos y arquitecturas técnicas.</li>
+    <li>Desarrollo: Implementamos soluciones iterativas con retroalimentación constante.</li>
+    <li>Revisión Colaborativa: Validamos avances contigo y refinamos detalles clave.</li>
+    <li>Evaluación Final: Probamos el producto y garantizamos los ajustes necesarios.</li>
+    <li>Entrega: Implementación y soporte continuo.</li>
+  </ol>
+</section>
 
-Discover how we can help you bring your vision to life and achieve your goals faster. 
-
-[Contact us to learn more.](https://calendly.com/softoise/30min)
+<div style="text-align: center; padding: 40px; margin-top: 40px;">
+  <h2 style="color: #ffffff;">Contacto</h2>
+  <p style="color: #dcdcdc;">¿Listo para comenzar? Permítenos ayudarte a alcanzar tus metas.</p>
+  <a href="https://calendly.com/softoise/30min" style="color: #ffffff; text-decoration: none; border: 1px solid #ffffff; padding: 10px 20px; border-radius: 5px;">Agendar reunión</a>
+</div>

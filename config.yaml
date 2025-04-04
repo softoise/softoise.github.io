@@ -8,6 +8,11 @@ title: "Softoise"
 
 summaryLength: 20 # The length of the summary of the post
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   title: "Softoise"
   description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
@@ -47,17 +52,13 @@ params:
 
 menus:
   main:
-    - name: "Home"
-      url: "/#hero"
+    - name: "Inicio"
+      url: "/"
       weight: 1
 
-    - name: "How we work"
+    - name: "Nosotros"
       url: "/our-work"
       weight: 2
-
-    # - name: "Our team"
-    #   url: "/#"
-    #   weight: 3
 
     - name: "Pricing"
       url: "/#"
@@ -68,7 +69,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Agenda una reunión"
       url: "https://calendly.com/softoise/30min"
       weight: 5
       pre: "btn btn-primary text-light"

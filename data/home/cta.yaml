@@ -1,18 +1,8 @@
 enabled: true
-id: "process"
+id: "cta"
 content:
-  title: "Nuestro **proceso** de desarrollo"
-  text: "Metodología clara y eficiente"
-  steps:
-    - title: "Análisis"
-      text: "Evaluamos tus requerimientos y objetivos."
-      icon: "icons/search.svg"
-    - title: "Diseño"
-      text: "Prototipos y planificación técnica."
-      icon: "icons/layout.svg"
-    - title: "Desarrollo"
-      text: "Construcción iterativa con feedback."
-      icon: "icons/code.svg"
-    - title: "Entrega"
-      text: "Implementación y soporte continuo."
-      icon: "icons/check.svg"
+  title: "¿Listo para transformar tu negocio?"
+  image: "images/team-training.png"
+  button:
+    label: "Hablar con un experto"
+    url: "https://wa.me/4773010668"
