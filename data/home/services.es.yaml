@@ -9,16 +9,16 @@ content:
       image: "images/web.png"
       button:
         label: "Saber más"
-        url: "#"
+        url: "/our-work/"
     - title: "Apps Móviles"
       text: "Soluciones nativas o multiplataforma para iOS y Android."
       image: "images/mobile.png"
       button:
         label: "Saber más"
-        url: "#"
+        url: "/our-work/"
     - title: "Automatización"
       text: "Sistemas que eliminan tareas repetitivas."
       image: "images/automation.png"
       button:
         label: "Saber más"
-        url: "#"
+        url: "/our-work/"

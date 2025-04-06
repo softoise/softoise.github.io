@@ -5,7 +5,7 @@ content:
   text: "Desarrollamos soluciones tecnológicas a medida para optimizar procesos y reducir costos."
   buttonPrimary:
     label: "Ver servicios"
-    url: "#services"
+    url: "/our-work/"
   buttonSecondary:
     label: "Contactar"
     url: "https://wa.me/4773010668"

@@ -9,16 +9,16 @@ content:
       image: "images/web.png"
       button:
         label: "Learn more"
-        url: "#"
+        url: "/en/our-work/"
     - title: "Mobile Apps"
       text: "Native or cross-platform solutions for iOS and Android."
       image: "images/mobile.png"
       button:
         label: "Learn more"
-        url: "#"
+        url: "/en/our-work/"
     - title: "Automation"
       text: "Systems that eliminate repetitive tasks."
       image: "images/automation.png"
       button:
         label: "Learn more"
-        url: "#"
+        url: "/en/our-work/"

@@ -5,8 +5,8 @@ content:
   text: "We develop tailored technology solutions to optimize processes and reduce costs."
   buttonPrimary:
     label: "See services"
-    url: "#services"
+    url: "/en/our-work/"
   buttonSecondary:
     label: "Contact"
-    url: "https://wa.me/4773010668"
+    url: "/contact"
 image: "images/hero-image.png"
