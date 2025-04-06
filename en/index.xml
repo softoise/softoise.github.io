@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Softoise</title><link>https://softoise.com/en/</link><description>Recent content on Softoise</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://softoise.com/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Our Work</title><link>https://softoise.com/en/our-work/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://softoise.com/en/our-work/</guid><description>&lt;div style="text-align: center; padding: 40px; border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
+ &lt;h1 style="color: #ffffff;">We are experts in software solutions&lt;/h1>
+ &lt;p style="color: #dcdcdc;">We create high-quality, personalized software solutions with rapid results.&lt;/p></description></item><item><title>Contact</title><link>https://softoise.com/en/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softoise.com/en/contact/</guid><description>&lt;div class="contact-container">
+ &lt;div class="contact-header">
+ &lt;h1>Ready to transform your business?&lt;/h1>
+ &lt;p class="subtitle">Leave your details and we'll contact you within 24 hours&lt;/p>
+ &lt;/div>
+ &lt;form
+ action="https://formspree.io/f/mgvapwjg"
+ method="POST">
+ &lt;div class="form-group">
+ &lt;label for="name">Full name*&lt;/label>
+ &lt;input type="text" id="name" name="name" required>
+ &lt;/div>
+ &lt;div class="form-group">
+ &lt;label for="email">Email*&lt;/label>
+ &lt;input type="email" id="email" name="email" required>
+ &lt;/div>
+ &lt;div class="form-group">
+ &lt;label for="message">Message*&lt;/label>
+ &lt;textarea id="message" name="message" rows="5" required>&lt;/textarea>
+ &lt;/div>
+ &lt;button type="submit" class="outline-button">
+ Send message
+ &lt;/button>
+ &lt;/form>
+ &lt;div class="alternative-contact">
+ &lt;p>Prefer an immediate meeting?&lt;/p></description></item></channel></rss>
