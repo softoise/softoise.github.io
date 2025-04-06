@@ -1,0 +1,12 @@
+enabled: true
+id: "hero"
+content:
+  title: "**Custom software** that drives your business"
+  text: "We develop tailored technology solutions to optimize processes and reduce costs."
+  buttonPrimary:
+    label: "See services"
+    url: "#services"
+  buttonSecondary:
+    label: "Contact"
+    url: "https://wa.me/4773010668"
+image: "images/hero-image.png"

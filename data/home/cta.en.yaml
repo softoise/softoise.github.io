@@ -1,0 +1,8 @@
+enabled: true
+id: "cta"
+content:
+  title: "Ready to transform your business?"
+  image: "images/team-training.png"
+  button:
+    label: "Talk to an expert"
+    url: "https://wa.me/4773010668"

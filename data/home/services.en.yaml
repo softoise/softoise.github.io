@@ -1,0 +1,24 @@
+enabled: true
+id: "services"
+content:
+  title: "Our services"
+  text: "Technical solutions tailored to your needs"
+  cards:
+    - title: "Web Development"
+      text: "Scalable web applications with modern technologies."
+      image: "images/web.png"
+      button:
+        label: "Learn more"
+        url: "#"
+    - title: "Mobile Apps"
+      text: "Native or cross-platform solutions for iOS and Android."
+      image: "images/mobile.png"
+      button:
+        label: "Learn more"
+        url: "#"
+    - title: "Automation"
+      text: "Systems that eliminate repetitive tasks."
+      image: "images/automation.png"
+      button:
+        label: "Learn more"
+        url: "#"
