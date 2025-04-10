@@ -49,7 +49,7 @@ markup:
 
 params:
   title: "Softoise"
-  description: "We are The Software Factory."
+  description: "The Software Factory"
   images:
     - "images/hero-image.png"
 
@@ -80,7 +80,7 @@ params:
 
   contact:
     - "softoise@outlook.com"
-    - "477 301 0668"
+    - "+52 272 225 5738"
 
   copyright: "© 2025 Softoise All Rights Reserved"
 
